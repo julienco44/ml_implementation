@@ -113,17 +113,8 @@ python src/random_forest.py
 - Finding 2: ...
 - Finding 3: ...
 
-## 📚 References
-
-- Course materials
-- UCI ML Repository: https://archive.ics.uci.edu/ml/index.php
-- Kaggle Datasets: https://www.kaggle.com/datasets
 
 ## 📅 Important Dates
 
 - **Submission Deadline**: 15.12.2025, 14:00
-- **Discussion Dates**: 16.12. – 19.12. or 8.1. – 9.1.
 
-## 📄 License
-
-This project is for educational purposes as part of the VU Machine Learning course at TU Wien.

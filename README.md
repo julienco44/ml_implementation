@@ -1,7 +1,5 @@
 # Machine Learning Exercise 2 - Regression Trees and Random Forests
 
-**VU Machine Learning - Winter Semester 2025**  
-**TU Wien - Faculty of Informatics**
 
 ## 📋 Project Overview
 

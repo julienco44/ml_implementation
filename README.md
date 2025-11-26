@@ -7,7 +7,7 @@ This repository contains the implementation of regression tree and random forest
 
 ## 👥 Team Members
 
-- Student 1: [Name] - [Matriculation Number]
+- Student 1: Julian Hardt - 12330562
 - Student 2: [Name] - [Matriculation Number]
 - Student 3: [Name] - [Matriculation Number]
 

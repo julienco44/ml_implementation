@@ -39,17 +39,17 @@ ml_implementation/
 ```python
 import sys
 sys.path.insert(0, 'src')
-from regression_tree import OptimizedRegressionTree
+from regression_tree import RegressionTree
 
 # Train
-tree = OptimizedRegressionTree(max_depth=10)
+tree = RegressionTree(max_depth=10)
 tree.fit(X_train, y_train)
 
 # Predict
 predictions = tree.predict(X_test)
 
 # With Cost-Complexity Pruning
-tree_pruned = OptimizedRegressionTree(max_depth=15, ccp_alpha=1e8)
+tree_pruned = RegressionTree(max_depth=15, ccp_alpha=1e8)
 tree_pruned.fit(X_train, y_train)
 ```
 
